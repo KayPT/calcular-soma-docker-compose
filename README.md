@@ -1,4 +1,5 @@
-# Simple Calculator which performs Addition - Calcular Soma
+# Simple Calculator which performs Addition - 
+# Aplicação web para calcular a soma
 
 Simple Calculator which performs Addition
 
