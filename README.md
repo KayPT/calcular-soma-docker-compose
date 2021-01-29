@@ -12,4 +12,4 @@ You'll need:
 
 Usage:
 - Run the command docker-compose up --build
-- Locate the app at [I'm an inline-style link with title](localhost:3000 "localhost:3000")
+- Locate the app at [http://localhost:3000](http://localhost:3000 "http://localhost:3000")
